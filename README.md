@@ -1,3 +1,6 @@
+AI-Using-DOSBOX
+🧠 Prolog & AI Logic Programming Examples This repository contains a curated collection of Prolog programs that demonstrate the power of logic programming in the domain of Artificial Intelligence (AI). 
+
 Prolog & AI Logic Programming Examples
 This repository contains a curated collection of Prolog programs that showcase the application of logic programming in solving classical Artificial Intelligence (AI) problems. Designed to be run via DOSBox or any standard Prolog interpreter, these examples cover everything from recursion and list processing to game logic, search strategies, and expert systems.
 
