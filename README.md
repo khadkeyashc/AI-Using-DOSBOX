@@ -1,76 +1,7 @@
-AI-Using-DOSBOX
-🧠 Prolog & AI Logic Programming Examples This repository contains a curated collection of Prolog programs that demonstrate the power of logic programming in the domain of Artificial Intelligence (AI). 
+<h1 align="center">🧠 AI Using DOSBox - Prolog Logic Programming</h1> <h3 align="center">Classical AI Problem Solving with Prolog via DOSBox</h3> <p align="center"> <img src="https://img.shields.io/badge/Language-Prolog-blueviolet?style=for-the-badge&logo=prolog" /> <img src="https://img.shields.io/badge/Platform-DOSBox-blue?style=for-the-badge&logo=windows95" /> <img src="https://img.shields.io/badge/Examples-10+-brightgreen?style=for-the-badge" /> </p>
 
-Prolog & AI Logic Programming Examples
-This repository contains a curated collection of Prolog programs that showcase the application of logic programming in solving classical Artificial Intelligence (AI) problems. Designed to be run via DOSBox or any standard Prolog interpreter, these examples cover everything from recursion and list processing to game logic, search strategies, and expert systems.
-
-📌 Highlights
-✅ Basic Prolog Concepts
-Use of cut (!) predicate to control backtracking
-Implementation of recursive logic
-List handling and computation of list length
-
-
-🧠 Knowledge Representation
-Medical diagnosis system using rule-based inference
-Password authentication through Prolog facts and rules
-
-
-🔍 Search Algorithms
-Depth-First Search (DFS) and Breadth-First Search (BFS)
-Water Jug Problem using logical state transitions
-
-
-🎮 Games and Strategy
-Full Tic Tac Toe game with turn-based AI logic
-Game state evaluation, move validation, and victory condition checks
-
-
-➗ Mathematical Logic
-Recursive factorial calculation supporting positive and negative integers
-
-
-🔍 Sample Topics & Problems
-#	Topic	Description
-1	Cut Predicate	Demonstrates pruning of search trees using !
-2	Recursion	Simple recursive summation of list elements
-3	List Handling	Measures the length of a list using recursion
-4	DFS & BFS	Graph traversal algorithms implemented with Prolog rules
-5	Medical Expert System	Rule-based expert system for disease diagnosis and treatment suggestions
-6	Water Jug Problem	Solves the classic AI jug puzzle using logical state transitions
-7	Tic Tac Toe	Interactive AI-based game logic in a turn-based system
-8	Authentication	Validates login credentials using Prolog facts
-9	Factorial Calculation	Recursive logic supporting both positive and negative integers
-
-
-🛠️ How to Run
-You can run these programs using any standard Prolog environment:
-
-
-📥 Prerequisites
-SWI-Prolog or
-DOSBox with a compatible Prolog setup
-
-
-▶️ Execution Steps
-Open your Prolog environment.
-Load the desired file:
-?- [filename].
-Run a query, for example:
-?- sumlist([1,2,3], X).
-
-
-🤖 Applications
-These examples are foundational for learning and applying:
-Rule-based AI systems
-Game development using logic programming
-Declarative problem-solving
-Knowledge base design and inference
-
-
-📁 Folder Structure
-AI-Using-DOSBOX/
-└── Practicals/
+📁 AI-Using-DOSBOX/
+└── 📁 Practicals/
     ├── Append.pro
     ├── Diagnosis.pro
     ├── Familyrelation.pro
@@ -80,10 +11,60 @@ AI-Using-DOSBOX/
     ├── TicTacToe.pro
     ├── WaterJug.pro
     └── ...
+    
+🔍 What You'll Learn
+🧠 Concept	💡 Description
+Cut Predicate !	Prune search trees and control backtracking
+Recursion	Implement logic using recursive rules
+List Operations	Append, sum, and measure lists
+DFS & BFS	Logic-based graph traversal
+Medical Expert System	AI-based rule engine for disease diagnosis
+Water Jug Problem	State transition logic to solve puzzles
+Tic Tac Toe	Complete turn-based game with AI strategy
+Login Authentication	Verify credentials using Prolog facts
+Factorial Calculation	Support both positive and negative inputs
 
-👤 Author
+⚙️ How to Run
+✅ Option 1: Using SWI-Prolog
+?- [filename].       % Example: [DFS].
+?- predicate(args).  % Example: dfs(a, Path).
+✅ Option 2: Using DOSBox
+
+Set up a Prolog-compatible DOS environment (like Turbo Prolog).
+Mount your folder in DOSBox:
+mount C C:\AI-Using-DOSBOX\Practicals
+C:
+Run the Prolog interpreter.
+
+Load .pro file and start querying.
+
+💾 Requirements
+SWI-Prolog
+OR
+DOSBox Emulator with Turbo Prolog setup
+
+💡 Applications
+✅ Rule-Based Expert Systems
+✅ Declarative Game AI
+✅ Search Problem Solving
+✅ Knowledge Representation
+✅ Inference Engines
+
+📚 Sample Problems
+#	📌 Topic	📄 File
+1	Cut Predicate	Cut.pro
+2	Recursive Summation	Append.pro
+3	List Length	ListLength.pro
+4	DFS & BFS	DFS.pro, BFS.pro
+5	Medical Expert System	Diagnosis.pro
+6	Water Jug Puzzle	WaterJug.pro
+7	Tic Tac Toe Game	TicTacToe.pro
+8	Login System	login.pro
+9	Factorial (±)	factorial.pro
+
+🧑‍💻 Author
 Yash Khadke
 Full Stack Developer | AI & Logic Programming Enthusiast
-Passionate about building intelligent systems using logic-driven approaches. Skilled in web development, backend architecture, and artificial intelligence concepts using Prolog, Python, and modern JavaScript frameworks. Actively exploring the intersection of declarative programming and real-world problem solving.
+Building intelligent systems using logic-driven approaches (Prolog, Python, JS). Passionate about game logic, expert systems, and real-world AI applications.
 
-
+<p align="left"> <a href="mailto:khadkeyash88@gmail.com"><img src="https://img.shields.io/badge/Gmail-khadkeyash88@gmail.com-red?style=flat&logo=gmail"></a><br> <a href="https://www.linkedin.com/in/yash-khadke-87394a227/"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Khadke-blue?style=flat&logo=linkedin"></a><br> <a href="https://github.com/khadkeyashc"><img src="https://img.shields.io/badge/GitHub-khadkeyashc-black?style=flat&logo=github"></a> </p>
