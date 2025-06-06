@@ -86,6 +86,4 @@ Yash Khadke
 Full Stack Developer | AI & Logic Programming Enthusiast
 Passionate about building intelligent systems using logic-driven approaches. Skilled in web development, backend architecture, and artificial intelligence concepts using Prolog, Python, and modern JavaScript frameworks. Actively exploring the intersection of declarative programming and real-world problem solving.
 
-🙏 Acknowledgements
-Inspired by academic logic programming courses
-Tested with SWI-Prolog and DOSBox environments
+
