@@ -67,4 +67,3 @@ Yash Khadke
 Full Stack Developer | AI & Logic Programming Enthusiast
 Building intelligent systems using logic-driven approaches (Prolog, Python, JS). Passionate about game logic, expert systems, and real-world AI applications.
 
-<p align="left"> <a href="mailto:khadkeyash88@gmail.com"><img src="https://img.shields.io/badge/Gmail-khadkeyash88@gmail.com-red?style=flat&logo=gmail"></a><br> <a href="https://www.linkedin.com/in/yash-khadke-87394a227/"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Khadke-blue?style=flat&logo=linkedin"></a><br> <a href="https://github.com/khadkeyashc"><img src="https://img.shields.io/badge/GitHub-khadkeyashc-black?style=flat&logo=github"></a> </p>
